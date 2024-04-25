@@ -1,7 +1,7 @@
 # Практика LampDev
 
 
-
+# Сrowdfunding Platforms:
 
 ## Фото застосунку
 ![image](https://github.com/amx122/praktika/assets/125684761/f8debe89-28b6-4a02-9844-9a0154ce243f)
